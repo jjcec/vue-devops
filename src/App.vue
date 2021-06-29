@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 차싸피 App" />
+  <HelloWorld msg="차싸피 테스트 성공!" />
 </template>
 
 <script>
